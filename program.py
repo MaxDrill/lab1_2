@@ -4,4 +4,5 @@ d = 6
 c = a + b + d
 umn = a * b * d
 razn = a - b - d
-print(c, umn, razn)
+g = c + umn + razn
+print(c, umn, razn, g)
