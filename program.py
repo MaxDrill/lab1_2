@@ -5,4 +5,5 @@ c = a + b + d
 umn = a * b * d
 razn = a - b - d
 g = c + umn + razn
-print(c, umn, razn, g)
+f = razn * g
+print(c, umn, razn, g, f)
